@@ -1,0 +1,8 @@
+{
+  "name": "parcel-plac",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tacrow/parcel-plac.git",
+  "author": "山内卓朗 <yamauchi_takuro@cyberagent.co.jp>",
+  "license": "MIT"
+}
